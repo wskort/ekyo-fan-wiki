@@ -1,0 +1,43 @@
+---
+tags:
+  - Larp/LifeInPlastic
+---
+- Fashion (== Stereotypical)
+	- The original. The one and only. When someone says, "Quick, think of a Plastic!" this is who you think of. 
+	- Clothes: Fashion Plastics are less bound by the Model-colour requirements than other Styles, but more strongly bound by the Model-gender clothing guidelines. A typical Fashion Plastic will have multiple outfit changes per day. 
+	- Accessories: None defined.
+- Doctor
+	- Doctor Plastics are health care experts and take great care for the wellbeing of those around them. They are smart and considerate. 
+	- Clothes: Most Doctor Plastics will have some variation of a labcoat or surgical scrubs integrated in their outfit, but may also appear in more casual clothes, especially if the style is more recently assigned. 
+	- Accessories: Stethoscope, surgical mask worn as a necklace, etc.
+- Adventure
+	- Adventure Plastics are explorers and researchers. They love to hike, climb, play with wild animals, and discover new locations. The fact that there is no such discovery to be made in Plasticland will never deter them.
+	- Clothes: May draw from various famous adventuring styles, most notably safari outfits.
+	- Accessories: Large binoculars, safari hats, etc.
+- Royal / Castle
+- Beach / Summer Fun
+- Sport
+- Popstar
+- Chef
+- Detective
+- Cowherd
+- Pilot/airline
+- Magician/illusionist
+- Police officer/Crimefighter
+- Circus 
+- Super(hero)
+- (Apres) Ski
+- Artist/Painter
+- Elven (think Rivendell)
+- Astronaut
+- Firefighter/rescue worker
+- Scientist/inventor
+- Ballet/dancer
+- (Horse) Jockey
+- Pirate / treasure hunter
+- Gardener/farmer
+- Magic/witchard
+- Sailor/nautical
+- Goth/Punk
+- Rainbow
+- Grease (black pants + black shirt, neckerchief in the appropriate colour)
