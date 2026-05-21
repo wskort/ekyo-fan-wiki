@@ -10,7 +10,7 @@ author: "[[Koenraad Speicher]]"
 
 [[Sebas]]: Uhm, hoe zat dit ook al weer... Zo... Deze hier... En dan, oké. (zucht.) Als het klopt, dan zou die nu moeten werken. Maak het snel. 
 
-*vrouwenstem*: (gefluisterd) [[Raad van Rijkdom]], we hebben hier geen tijd voor!
+*vrouwenstem*: (gefluisterd) [[Koenraad Speicher|Koenraad]], we hebben hier geen tijd voor!
 
 [[Koenraad Speicher|Koenraad]]: Iedereen moet het weten, voor ze de masten weghalen! Kom op! 
 
