@@ -1,4 +1,0 @@
----
-tags:
-  - Literature/Austen/PrideAndPrejudice
----

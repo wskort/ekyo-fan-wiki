@@ -1,4 +1,0 @@
----
-aliases: ["VMware"]
-tags: Techniek
----
