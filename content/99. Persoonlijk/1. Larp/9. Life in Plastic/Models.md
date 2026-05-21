@@ -1,0 +1,17 @@
+---
+tags:
+  - Larp/LifeInPlastic
+---
+- Plastics™
+	- Alex™ (they/them)
+		- prominently includes yellow
+		- more likely to have androgynous aesthetic
+	- Betty™ (she/her)
+		- prominently includes pink
+		- more likely to have high femme aesthetic 
+	- Chris™ (he/him)
+		- prominently includes blue
+		- more likely to have high masc aesthetic
+	- Dylan™ (they/them)
+		- whites, beiges and greys, nondescript
+		- orga non-persona

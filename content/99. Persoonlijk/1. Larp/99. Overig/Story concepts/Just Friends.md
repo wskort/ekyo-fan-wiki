@@ -1,0 +1,5 @@
+---
+tags:
+  - Fiction
+---
+Strong friendship between two characters shown throughout the years. One of the characters suddenly disappears, retreats, as they enter a relationship. Their friend mourns the loss of the friendship, but then the relationship ends and they have their friend back. But it's not the same. The friend keeps mourning their romantic relationship, craving a new one, entering one after the other. The single friend gets more and more disoriented as a surreal parade of partners replace each other with little to no warning, while the partnered friend keeps insisting that one day, they'll get it. One day they'll feel it too. But the single friend doesn't want to find some mysterious other person to make their life complete. They want their friend. For them, their friendship is enough. So why can't their friend appreciate it the way they do? Why can't it be enough to be 'just' friends? 

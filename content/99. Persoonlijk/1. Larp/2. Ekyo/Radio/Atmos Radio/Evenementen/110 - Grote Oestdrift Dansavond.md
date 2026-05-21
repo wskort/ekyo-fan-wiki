@@ -1,0 +1,14 @@
+---
+tags:
+  - Larp/Ekyo
+  - Krant
+publisher: "[[Atmos Radio]]"
+dag: Jaar 450, dag 110
+---
+![[Grote Oestdrift Dansavond- Pleun Vertier.mp3]]
+
+[[Pleun Vertier|Pleun]]: -ale uitzending van [[Atmos Radio]]! Mijn naam is [[Pleun Vertier]], en ik breng live vanuit [[Huldam]] verslag uit van de Grote [[Riftlanden#De Oestdrift|Oestdrift]] Dansavond! Het ziet er naar uit dat het weer een prachtig feest gaat worden, lieve mensen, lieve kinderen. Het plein hier in de [[Luierloft]] staat al sinds vanmiddag vol! Het wordt genieten. De sfeer zit er goed in, en ik heb het gevoel alsof heel [[Huldam]] hier naar de [[Luierloft]] is gekomen om iets mee te maken van dit prachtige festijn. Ik ben zelf niet zo goed met cijfers, maar ik heb me laten vertellen dat hier enkele honderden mensen aanwezig zullen zijn. Iedereen ziet er prachtig uit. Wat een kleurrijke boel is het, lieve mensen! Grote, wijde rokken. Ik zie hemden met prachtige franjes. Er is zelfs iemand die... zie ik dat goed...? Die een pak vol heeft gehangen met kleine lepeltjes! Nou, wat ontzettend charmant en authentiek. Het lijkt echt geïnspireerd te zijn door hoe de [[Riftlanden#De Oestdrift|Oestdrift]] wordt gevierd op het platteland. 
+
+[[Pleun Vertier|Pleun]]: *(verv.)* Het lijkt nog even te duren voordat de muzikanten klaar zijn om te beginnen, dus ik vertel graag nog iets over de hoofdsponsor van de Grote [[Riftlanden#De Oestdrift|Oestdrift]] Dansavond. Onze grootste sponsor van de avond zijn de [[Mondiale Spoorwegen]], die een intercontinentale spoorweg aan het aanleggen zijn. Wat een prachtig initiatief! Ik snap ook zeker waarom ze deze culturele avond willen sponsoren. Zij zijn zo druk bezig om de [[Riftlanden|Riftlanders]] te helpen om meer met de buitenwereld in contact te staan. Ze zijn duidelijk erg begaan met de scherflingen. Al jarenlang is de [[Mondiale Spoorwegen|Mondiale]] één van de [[Raad van Rijkdom|Grote Vijf]], het bestuursorgaan van [[Huldam]] en de [[Riftlanden]]. En het is een blijk van hun begaanheid met onze prachtige regio dat zij investeren in deze mooie dansavond. 
+
+[[Pleun Vertier|Pleun]]: *(verv.)* Ondertussen zijn onze muzikanten van de avond gearriveerd. Het podium, lieve luisteraars, is versierd met bloemen en grote lantaarns voor de gelegenheid. En ze zaaien - oh, ik zeg het verkeerd - *zwaaien* natuurlijk naar de menigte. Ze worden met een luid applaus verwelkomd. Goed om te weten, lieve luisteraars, is dat de dansavond voornamelijk zal bestaan uit liederen waarop traditionele dansen gedanst kunnen worden. Onder de muzikanten zijn onder andere [[Remy Florians]], een beroemd artist die gestudeerd heeft aan het [[Rederia Conservatorium]] in [[Valsted]], heel prestigieus. Ook maken [[Karel Peremans]] en [[Braam Krekel]] een verschijning. Verder zullen van mij geen onderbreken meer volgen, zodat we u een avond aan dansplezier kunnen verschaffen. De laatste instrumenten worden gestemd, en... We gaan van start! Veel dansplezier! 
