@@ -1,0 +1,11 @@
+---
+tags:
+  - Larp/Ekyo
+  - Krant
+publisher: "[[Hoogstedelijke Bode]]"
+author: "[[Deen Vogelblad]]"
+---
+## De waarheid achter [[Riftlanden#De Oestdrift|de Oestdrift]] 
+Al jaren gaan er geruchten over de agressieve en onvoorspelbare aard van de vieringen, met de [[Riftlanden|Riftlanders]] als grootste aanstichter, maar nooit konden wij dicht genoeg bij de festiviteiten komen. Tot nu. Afgelopen nacht zijn twee van onze journalisten, vermomd als doodnormale vissers, eindelijk eens op onderzoek uit gegaan naar de tradities van de [[Riftlanden#De Oestdrift|Oestdrift]]. Als u al dacht dat de [[Riftlanden#De Oestdrift|Oestdrift]] grimmig was, staat in deze rapportage de enige bevestiging die u nodig heeft. Voor de gevoelige lezer is dit het moment om af te haken, want wat onze journalisten mee hebben gemaakt, is niet geschikt voor tere zielen. Om de veiligheid van onze journalisten te kunnen waarborgen, zal de identiteit van onze journalisten niet worden gedeeld. Wel kunt u deze twee dappere mensen sterkte wensen door ons te contacteren. Diep in de nacht, begon het avontuur van de dappere onderzoekers, ze kropen door bossen en struiken om voor u dit mysterie te kunnen ontrafelen. Toen onze journalisten duidelijk probeerden te maken dat zij slechts arme vissers waren, op zoek naar een plek om te vissen, werden zij per direct met de dood bedreigd. Hun gebit bleef niet heel toen de arme stakkers met tanden op een verharde rand moesten gaan liggen en zonder genade een trap ontvingen. De journalisten wisten op het nippertje te ontkomen aan deze barbaarse praktijken. De twee worden nu verzorgd en het gaat goed met ze. Wat ons de meeste zorgen wekt is dat zelfs de jongens van [[Obol Corporatie|Obol]] zo omgaan met een barbaarse, agressieve feestdag als [[Riftlanden#De Oestdrift|de Oestdrift]]. We kunnen alleen maar speculeren wat er zich echt achter gesloten deuren afspeelt. Wij zijn blij en opgelucht dat onze journalisten het hebben overleefd, want wij kunnen alleen maar speculeren hoe het verloopt achter de bescherming van [[Obol Corporatie|Obol]]. 
+
+**Geschreven door [[Deen Vogelblad]]**
