@@ -1,0 +1,6 @@
+---
+tags:
+  - Larp/Ekyo
+---
+### IJzeren postbode
+In het kampement zelf blijkt er een andere groep [[IJzeren Karavaan|Karavaniers]], geleid door [[IJzerkind Vos]], de boel overhoop te halen op zoek naar 'post'. Alle post moet via hen verstuurd worden. [[Irma Diep|Irma]] gaat direct naar de tent waar ze twee envellopjes heeft klaarliggen voor [[Polina Karkhos]] en [[OID#Abt K|Abt K]], maar die blijken al te zijn meegenomen. Helaas *inclusief* de boekhouding van [[Boekhouding Irmijn Inc|Irmijn Inc.]]. Even verderop is [[IJzerkind Vos]] bezig het [[Orde van het Heilig Akkoord|Heilig Akkoord]] op een vuurlinie neer te zetten om hun spullen te doorzoeken, maar [[Irma Diep|Irma]] piept er dwars tussendoor. [[IJzerkind Vos]] heeft namelijk haar boekje en de twee envelloppen in handen. De enveloppen zijn inderdaad voor de post, dat is prima, maar zou ze het boekje terugmogen? Alleen als hij het boekje nu ter plekke mag doorlezen. Geen probleem, [[Irma Diep|Irma]] schijnt hem even bij terwijl hij de 2 pagina's leest. En dit wordt ook gerapporteerd via de post? Jazeker, er gaat regelmatig een verslagje naar [[Obol Corporatie|Obol]]. Oké, dan krijgt [[IJzerkind Vos]] vanzelf ook de updates. Alsjeblieft, je boekje terug. 

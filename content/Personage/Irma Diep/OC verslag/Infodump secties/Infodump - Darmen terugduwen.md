@@ -1,0 +1,6 @@
+---
+tags:
+  - Larp/Ekyo
+---
+### Darmen terugduwen
+[[Irma Diep|Irma]] loopt toevallig langs terwijl er chaos uitbreekt in de [[Obol Corporatie|Obol]] tent. [[Elizabeth 'Bep' Snip|Bep]] is met spoed een [[IJzeren Karavaan|Karavanier]] aan het helpen, wiens darmen uit haar buik hangen en die met behulp van [[Markos Erikson|Markos]] weer terug er in worden geduwd. Ondertussen is de [[IJzeren Karavaan|Karavanier]] luid tegen haar compaan aan het schreeuwen dat [[Markos Erikson|Markos]] haar heeft neergestoken en dat die hem dood moet maken. [[Markos Erikson|Markos]] zegt van niets te weten, en [[Elizabeth 'Bep' Snip|Bep]] wil er niet van horen terwijl er werk te verrichten is. [[Solomon Webster|Webster]] zit op enige afstand en wil met huidig publiek niet vertellen wat hij gezien heeft. Nadat de buik weer dichtgehecht is met alle ingewanden netjes inwendig, helpt [[Irma Diep|Irma]] haar naar de taverne voor een goede stevige (pijnstillende) drank. Bij navraag achteraf zeggen zowel [[Elizabeth 'Bep' Snip|Bep]] als [[Solomon Webster|Webster]] dat [[Markos Erikson|Markos]] wel degelijk die [[IJzeren Karavaan|Karavanier]] had neergestoken. 

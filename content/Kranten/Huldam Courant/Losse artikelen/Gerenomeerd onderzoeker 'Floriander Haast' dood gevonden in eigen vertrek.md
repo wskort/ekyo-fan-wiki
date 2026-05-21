@@ -1,0 +1,13 @@
+---
+tags:
+  - Larp/Ekyo
+  - Krant
+publisher: "[[Huldam Courant]]"
+author: "[[Alvin Freriks]]"
+---
+## Gerenomeerd onderzoeker '[[Floriander Haast|Floriander Haast]]' dood gevonden in eigen vertrek
+Schokkend nieuws uit de [[Luierloft]] in [[Huldam]]. Autoriteiten maken bekend dat een hoogstaand lid van de enigmatische [[Orde van het Heilig Akkoord]], naar de naam [[Floriander Haast|Floriander Haast]] (37), dood in hun vertrekken is gevonden. [[Floriander Haast|Haast]] was een gerenommeerd onderzoeker en hoogstaand lid (Cantor) binnen de [[Orde van het Heilig Akkoord]] en hoogleraar op het [[Keldria Instituut]], waar die onderzoek deed naar de gebruiksvormen van kristallen en gesteente. Opvallend aan deze gebeurtenis is dat [[Floriander Haast|Haast]] eerder deze maand bekend maakte op het punt van een doorbraak te staan in hun onderzoek naar het mineraal [[99. Persoonlijk/1. Larp/2. Ekyo/Grondstoffen en goederen/Gesteente/Noxiet|Noxiet]], die naar eigen zeggen 'de wereld zou schokkeren'. [[Floriander Haast|Haast]] gaf aan het onderzoek nog enkele malen te willen reproduceren, om zo de uitkomsten van het onderzoek met zekerheid te kunnen bevestigen. 
+
+Er lijkt opzet in het spel te zijn geweest. De vertrekken van het slachtoffer zijn overhoop gehaald. Er lijkt onder andere rondgeneusd te zijn in hun studeerkamer, en lijkt het erop dat er bepaalde kledingstukken zijn verdwenen, zo verklaarde Corpsschef [[Pijke van der Laen]] van de [[Huldamese Handhaving]] vanochtend. Dit alles werd bevestigd door een familielid van de cantor die aangeeft dat die hun huis nooit in zulke rommelige staat zou achterlaten. Het familielid reageert verbijsterd op het nieuws. "Ik kan niet geloven dat iemand zo'n walgelijke daad zou begaan, en vervolgens ook spullen mee zou nemen. Absoluut onbegrijpelijk", aldus het familielid. De autoriteiten geven aan nog geen verdere uitspraken te willen doen over de mogelijke doodsoorzaak en ze geven aan dat er een onderzoek gaande is. Ook geven ze aan dat het onbekend is hoe lang geleden [[Floriander Haast|Haast]] gestorven, maar dat dit waarschijnlijk enkele weken geleden gebeurd is. Er is nog geen bewijs gevonden voor een gevecht of anderszins fysieke aanvaring. De autoriteiten roepen eenieder met mogelijke informatie op om zich te melden. Zij kunnen een brief verzenden naar de [[Huldamese Handhaving]], waar ieder [[Atmos Luchtvaart Compagnie|Atmos]] postkantoor het adres van heeft. Wij bij de redactie van de [[Huldam Courant|Courant]] uiten onze condoleances en ons medeleven en wensen ieder die dit leest een veilige dag toe in deze roerige tijden. 
+
+Geschreven door [[Alvin Freriks]], verslaggever Criminaliteit.
