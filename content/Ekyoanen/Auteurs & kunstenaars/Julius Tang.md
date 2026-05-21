@@ -5,4 +5,4 @@ tags:
 author: "[[Augustijn Snip|August Snip]]"
 ---
 # Julius Tang
-Dichter. Pseudoniem van [[Augustijn Snip|August Snip]]. 
+Dichter. %% Pseudoniem van [[Augustijn Snip|August Snip]]. %%
