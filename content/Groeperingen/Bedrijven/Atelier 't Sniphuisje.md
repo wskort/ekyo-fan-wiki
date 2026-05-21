@@ -8,3 +8,5 @@ aliases:
 ---
 # Atelier 't Sniphuisje
 Startup van [[Dorothea Snip]]. 
+
+![[Atelier t Sniphuisje.png]]
