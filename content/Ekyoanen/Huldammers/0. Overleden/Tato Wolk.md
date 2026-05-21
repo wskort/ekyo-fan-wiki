@@ -7,7 +7,7 @@ faction:
 nation:
   - "[[Riftlanden]]"
 ---
-# † Tato Wolk
+# †? Tato Wolk
 Ex-postbode gearresteerd bij opdoeken [[Riftlanders Unie|Unie]] laboratoria. 
 %% Mogelijk bekende van [[Hanne Prokary|Hanne]]. Mogelijk dood; ze herkende een lijk van een proefpersoon "echt niet" en was daarna behoorlijk overstuur. 
 
