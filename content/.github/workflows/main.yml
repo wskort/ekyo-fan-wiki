@@ -46,7 +46,7 @@ jobs:
             --exclude="Liederen/Nog niet ingezongen/0. Willeke's Projects/" \
             --exclude='Liederen/Nog niet ingezongen/Onzingbaar/' \
             --exclude='Radio/Onder de Wolken/' \
-            ./ quartz/content/
+            ./ "99. Persoonlijk/1. Larp/2. Ekyo/" quartz/content/
 
       - name: Remove draft files
         run: |
