@@ -1,0 +1,14 @@
+---
+tags:
+  - Larp/LoveAndDuty
+  - Costume/Regency
+---
+- [[Katoenen shift, 1500s]]
+- [[Zwarte kuitlaarzen]]
+- [[Zwarte instappers]]
+- [[Witte balletmaillot]]
+- [[Tan breeches, 1790s]]
+- [[White shirt, 1790s]]
+- [[Tan waistcoat, 1790s]]
+- [[White cravat]]
+- [[Claret frock coat, 1700s]]

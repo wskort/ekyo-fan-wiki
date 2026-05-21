@@ -1,0 +1,23 @@
+---
+tags:
+  - Larp/HarvestDance
+  - Costume/Regency
+character: "[[Peikko the Shepherd (Harvest Dance)|Peikko]]"
+---
+- [[Katoenen shift, 1810s]]
+- [[Stays, 1810s]]
+- [[Witte petticoat, 1810s]]
+- [[Ongebleekt katoenen onderrok|Ongebleekt katoenen onderrok x2]]
+- [[Bruine dagjurk, 1810s]]
+- [[Groene avondjurk, 1810s]]
+- [[Wollen spencer, 1810s]]
+- [[Gehaakt mutsje, dracht]]
+- [[Bruine bonnet, 1810s]]
+- [[Groene schort, dracht]]
+- [[Austen armbandje]] (original and/or colourswap)
+- [[Kralentasje, dracht]]
+- [[Schapenoren]]
+- [[Schapenarmen]]
+- [[Schapenkraag]]
+- [[Schapenogen (lensen)]]
+- [[Schapenhoorns]]

@@ -1,0 +1,8 @@
+C:\Users\WillekeKort\Dropbox\Obsidian\1. Werk\2. Cursus\4. C#\CS probeersels\bin\Debug\CS probeersels.exe.config
+C:\Users\WillekeKort\Dropbox\Obsidian\1. Werk\2. Cursus\4. C#\CS probeersels\bin\Debug\CS probeersels.exe
+C:\Users\WillekeKort\Dropbox\Obsidian\1. Werk\2. Cursus\4. C#\CS probeersels\bin\Debug\CS probeersels.pdb
+C:\Users\WillekeKort\Dropbox\Obsidian\1. Werk\2. Cursus\4. C#\CS probeersels\obj\Debug\CS probeersels.csproj.AssemblyReference.cache
+C:\Users\WillekeKort\Dropbox\Obsidian\1. Werk\2. Cursus\4. C#\CS probeersels\obj\Debug\CS probeersels.csproj.SuggestedBindingRedirects.cache
+C:\Users\WillekeKort\Dropbox\Obsidian\1. Werk\2. Cursus\4. C#\CS probeersels\obj\Debug\CS probeersels.csproj.CoreCompileInputs.cache
+C:\Users\WillekeKort\Dropbox\Obsidian\1. Werk\2. Cursus\4. C#\CS probeersels\obj\Debug\CS probeersels.exe
+C:\Users\WillekeKort\Dropbox\Obsidian\1. Werk\2. Cursus\4. C#\CS probeersels\obj\Debug\CS probeersels.pdb

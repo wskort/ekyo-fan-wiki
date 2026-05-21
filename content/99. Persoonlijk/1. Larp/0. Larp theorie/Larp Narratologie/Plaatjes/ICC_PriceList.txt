@@ -1,0 +1,29 @@
+ ---------------
+ Portal's Price list
+ ---------------
+ Supply kit:                         40 SON              
+ Energy cell:                       200 SON              
+ Repair kit:                        200 SON              
+ Stim (Drug):                       200 SON              
+ Hybernation (Drug):                400 SON              
+ Medicare (Drug):                   500 SON              
+ Antibiotics (Drug):                400 SON              
+ Antitoxin, radiation (Drug):       500 SON              
+ Antitoxin, Cholinesterase (Drug):  500 SON              
+ Drill:                             400 SON              
+ Mech tool:                         600 SON              
+ Tech tool:                         600 SON              
+ Short weapon: 'Falcata':           400 SON              
+ Mid weapon: 'Spathae':             400 SON              
+ Long weapon: 'Bastard':              0 SON              
+ Two-handed weapon: 'Claymore':       0 SON              
+ Staff weapon:                      600 SON              
+ Pistol:                            300 SON              
+ Revolver:                          400 SON              
+ Rifle:                             600 SON              
+ Carbine:                           600 SON              
+ Machine gun:                       600 SON              
+ Armour:                            400 SON              
+ Gun reload semi-automization:      500 SON              
+ Gun reload automization:           700 SON              
+

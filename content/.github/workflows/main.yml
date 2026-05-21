@@ -1,0 +1,83 @@
+name: Sync vault to Quartz
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout vault
+        uses: actions/checkout@v4
+
+      - name: Checkout Quartz repo
+        uses: actions/checkout@v4
+        with:
+          repository: wskort/ekyo-fan-wiki
+          token: ${{ secrets.QUARTZ_REPO_TOKEN }}
+          path: quartz
+
+      - name: Clear existing content
+        run: rm -rf quartz/content/*
+
+      - name: Copy content excluding private folders
+        run: |
+          rsync -a \
+            --exclude='.obsidian/' \
+            --exclude='.git/' \
+            --exclude='quartz/' \
+            --exclude='Esotherica/' \
+            --exclude='Personage/' \
+            --exclude='Archief/Boeken/Kortschrift/' \
+            --exclude='Archief/Boeken/Syllabi/' \
+            --exclude='Archief/Boeken/Logboek Irma/' \
+            --exclude='Archief/Obol documenten/Irmijn Inc/' \
+            --exclude='Archief/Obol documenten/K files/' \
+            --exclude='Archief/Obol documenten/Personeelsbestanden/' \
+            --exclude='Archief/Obol documenten/Projectbestanden/' \
+            --exclude='Archief/Obol documenten/Rapporten/' \
+            --exclude='Archief/Post/' \
+            --exclude='Ekyoanen/Eilandbezoekers/' \
+            --exclude='Ekyoanen/Eilanders/' \
+            --exclude='Groeperingen/Bedrijven/Obol/Spelersgroepen/' \
+            --exclude='Grondstoffen en goederen/Kanten hebbedingetjes/' \
+            --exclude="Liederen/Nog niet ingezongen/0. Willeke's Projects/" \
+            --exclude='Liederen/Nog niet ingezongen/Onzingbaar/' \
+            --exclude='Radio/Onder de Wolken/' \
+            ./ quartz/content/
+
+      - name: Remove draft files
+        run: |
+          python3 - << 'EOF'
+          import os, yaml
+
+          content_dir = 'quartz/content'
+
+          for root, dirs, files in os.walk(content_dir):
+              for filename in files:
+                  if filename.endswith('.md'):
+                      filepath = os.path.join(root, filename)
+                      with open(filepath, 'r', encoding='utf-8') as f:
+                          content = f.read()
+                      if content.startswith('---'):
+                          end = content.find('---', 3)
+                          if end != -1:
+                              try:
+                                  frontmatter = yaml.safe_load(content[3:end])
+                                  if isinstance(frontmatter, dict) and frontmatter.get('draft') is True:
+                                      os.remove(filepath)
+                                      print(f'Removed draft: {filepath}')
+                              except yaml.YAMLError:
+                                  pass
+          EOF
+
+      - name: Commit and push to Quartz
+        run: |
+          cd quartz
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --staged --quiet || git commit -m "Sync from vault $(date -u +'%Y-%m-%d %H:%M:%S')"
+          git push

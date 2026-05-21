@@ -1,0 +1,16 @@
+---
+tags: Techniek
+---
+- Inleiding / Omschrijving opdracht
+- Stakeholders
+	- Contact bij Wiconic
+	- Verantwoordelijke / opdrachtgever
+	- Daily leidingevende
+	- evt. 'klanten'
+- Duur van de opdracht
+- Scope van de opdracht (wat wel, wat niet)
+- Planning
+- Resources (licenties? personen? etc.)
+- Updatemomenten
+- Deliverables
+- Akkoord door opdrachtgever
