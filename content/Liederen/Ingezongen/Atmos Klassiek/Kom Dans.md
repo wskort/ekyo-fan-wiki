@@ -6,7 +6,7 @@ author:
   - "[[Noortje Neele]]"
   - Guinevere
 ---
-# Kom Dans (Beste)
+# Kom Dans
 ![[Kom Dans (Beste) - Noortje Neele.mp3]]
 
 Kom dans met mij

@@ -4,6 +4,7 @@ tags:
   - Larp/NPC
 nation:
   - "[[Valsted]]"
+draft: true
 ---
 # Camino
 

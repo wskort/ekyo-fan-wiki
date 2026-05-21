@@ -6,4 +6,4 @@ faction:
   - "[[Obol Corporatie]]"
 ---
 # Marnix de Groot
-Was opzichter op [[Luchteiland 48-X]]. 
+Was opzichter%% op [[Luchteiland 48-X]]%%. 

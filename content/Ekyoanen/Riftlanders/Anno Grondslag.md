@@ -8,5 +8,5 @@ aliases:
   - Kardoes
   - Olexi
 ---
-# Anno Grondslag
+# † Anno Grondslag
 Mijnwerker, van oorsprong uit [[Nea Mandra]]. 

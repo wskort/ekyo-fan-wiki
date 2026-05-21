@@ -40,7 +40,7 @@ De [[Obol Corporatie]] en haar werknemers houden zich vooral bezig met het maken
 3) Luchtschepen 
 4) Landvoertuigen 
 5) Rubber 
-6) Staal 
+6) [[Staal]] 
 
 [[Obol Corporatie|Obol]] wil de productie van deze goederen zo hoog mogelijk houden. Daarom moeten ze steeds uitbreiden en contracten krijgen. Zo kunnen ze in nieuwe gebieden graven naar grondstoffen. Op deze manier staan de activiteiten en het gedrag van de [[Obol Corporatie]] vooral in het teken van eindeloze uitbreiding. 
 

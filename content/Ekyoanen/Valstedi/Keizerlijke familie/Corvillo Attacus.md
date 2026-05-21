@@ -7,4 +7,4 @@ nation:
   - "[[Valsted]]"
 ---
 # † Corvillo Attacus
-Eerste keizer van het [[Valsted Imperium]]. Eerste kind van [[Josephine Attacus]]. Afstammeling van [[Valdomarius de Vader]]. Oprichter (creator?) van [[Ivaloft]]. 
+Eerste keizer van het [[Valsted Imperium]]. Eerste kind van [[Joséphine Attacus]]. Afstammeling van [[Valdomarius de Vader]]. Oprichter (creator?) van [[Ivaloft]]. 

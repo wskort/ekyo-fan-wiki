@@ -9,7 +9,7 @@ original: Florence Reece / Pete Seeger
 translator: Willeke
 ---
 # Welke Kant Sta Jij?
-![[Welke Kant Sta Jij.mp3|Welke Kant Sta JIj]]
+![[99. Persoonlijk/1. Larp/2. Ekyo/Liederen/0. MP3s/PDFs/Welke Kant Sta Jij.pdf|Welke Kant Sta Jij]]
 
 Kom dichterbij, arbeiders
 En luister naar dit lied

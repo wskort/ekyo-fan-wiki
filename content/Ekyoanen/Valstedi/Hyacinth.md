@@ -6,6 +6,7 @@ aliases:
   - Hyacinth
 nation:
   - "[[Valsted]]"
+draft: true
 ---
 # Hyacinth 
 Heeft intieme briefwisselingen met [[Solomon Webster]]. 
