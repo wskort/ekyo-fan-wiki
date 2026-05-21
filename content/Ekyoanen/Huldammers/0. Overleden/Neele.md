@@ -5,6 +5,7 @@ nation:
   - "[[Riftlanden]]"
 faction:
   - "[[Obol Corporatie]]"
+draft: true
 ---
 # † Neele
 Overleden in dienst van [[Obol Corporatie|Obol]] bij het uitvoeren van een (geheime) taak zonder adequate veiligheidstraining te hebben ontvangen. Verloofde van [[Ronan]]. 
