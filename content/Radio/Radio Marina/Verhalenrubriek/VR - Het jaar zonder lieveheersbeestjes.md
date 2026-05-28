@@ -28,4 +28,4 @@ De subtiele tekenen van verzwakking voordat de bladluizen zichtbaar worden, weer
 
 Het verhaal draagt ook echo’s van traditionele [[Riftlanden|Riftlandse]] landbouwwijsheid: het leert dat kwetsbare ecosystemen en kleine wezens die ze beschermen, onmisbaar zijn. De les is duidelijk en universeel: de kleine zorg lijkt onbelangrijk – tot het ontbreekt. In mijn boek “[[Schervenland - Culturen en gebruiken van de Riftlanden|Schervenland: Culturen en gebruiken van de Riftlanden]]” verbind ik dit verhaal met bredere patronen van symboliek in flora en fauna in de lokale mythologie.” 
 
-Zo zie je maar, zelfs een akker kan je iets leren over zorg en aandacht. Nogmaals dank aan [[Veerle]] van het [[Riftlanden|Riftlandse]] [[Bodil]] voor het vertellen van dit verhaal en aan [[Melodist Bruyamment]] voor zijn interpretatie.
+Zo zie je maar, zelfs een akker kan je iets leren over zorg en aandacht. Nogmaals dank aan [[Abel]] van het [[Riftlanden|Riftlandse]] [[Bodil]] voor het vertellen van dit verhaal en aan [[Melodist Bruyamment]] voor zijn interpretatie.
