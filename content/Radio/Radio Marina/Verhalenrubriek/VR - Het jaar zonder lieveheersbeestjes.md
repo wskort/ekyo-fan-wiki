@@ -7,6 +7,7 @@ publisher:
   - "[[Radio Marina]]"
 ---
 ### Het jaar zonder lieveheersbeestjes
+![[Jaar Zonder Lieveheersbeestjes - Abel.mp3]]
 
 Lang geleden, op een scherf hier niet ver vandaan, was een grote boerderij. De laatste sneeuw was gesmolten, en het land kwam weer tot leven. De akker stond vol met de eerste gewassen van het jaar. Van de dunne haversprieten en de bleke tarwehalmen, tot de diepgroene rozetten spinazie en de speerpunten van de lente-ui, alles blaakte van gezondheid. Maar de rode stipjes die in andere jaren tussen de planten dwarrelden, bleven dit jaar weg. 
 
@@ -21,6 +22,7 @@ Het zachte gezoem van de lieveheersbeestjes, hun kleine beetjes die nooit de aan
 ---
 
 Hier volgt nu een reactie van [[Melodist Bruyamment]], expert op het gebied van de [[Riftlanden|Riftlandse]] cultuur. 
+![[Jaar Zonder Lieveheersbeestjes - Bruyamment.mp3]]
 
 “Deze fabel over het jaar zonder lieveheersbeestjes past perfect binnen de [[Riftlanden|Riftlandse]] traditie van verhalen die eenvoudige gebeurtenissen gebruiken om diepere levenslessen te illustreren. Op het eerste gezicht beschrijft het slechts een akker in de vroege lente, met aandacht voor de verschillende gewassen. Toch schuilt in de afwezigheid van de rode stipjes – de lieveheersbeestjes – een krachtige symboliek: de kleinste beestjes, onopvallend en schijnbaar onbelangrijk, zijn cruciaal voor het behoud van evenwicht.
 
