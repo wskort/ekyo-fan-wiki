@@ -126,7 +126,6 @@ In reactie op een bankencrisis in [[Huldam]] worden de poorten gesloten voor de 
 - **Chaos in [[Huldam]]** na het nieuws over [[Giel de Papo|de Papo]]'s ontsnapping — mensen vluchten massaal via de [[Atmos Luchtvaart Compagnie|Atmos Spits]], winkels geplunderd, straten onrustig.
 - **[[Admiraal Vol]] roept de gehele [[Valsted Armada|Imperiale Armada]] terug** uit de [[Riftlanden]], [[Kadazh]] en de [[Haugr|Stormlanden]] — ongekende zet die brede speculatie wekt. Geruchten over een interne coup, een alliantie met [[Giel de Papo|de Papo]], en genetische experimenten.
 - **Moord in [[Hoogstad]]** — [[Anton Vrijbuick]], coördinator van de stad [[Huldam]], meerdere keren gestoken in hals en buik. Vermoedelijk het "[[Monster van Hoogstad]]" dat al langer actief is.
-- **[[Riftlanders Unie|Unie]] en [[IJzeren Karavaan]]** slaan de handen ineen op het [[eiland]] om gevangen genomen [[Haugr]]-krijgers af te richten als soldaten.
 - **[[Obol Corporatie|Obol]] doneert** geld voor 100 nieuwe [[Huldamese Handhaving|Handhaving]]-vacatures; nieuwe trainingsbarak vernoemd naar [[Vrouwe Nadia Galena|Nadia Galena]].
 - **Een "[[orde van octopussen]]"** — een mysterieuze nieuwe macht die snel groeit in de [[Kadazh|Kale Vlakten]] van [[Kadazh]].
 - **[[IJzeren Karavaan]] verlaat [[Tala]]** na een opstand van [[Obol Corporatie|Obol]]-troepen. Vrijwel direct daarna bezetten [[Haugr]]-strijders het [[eiland]], die het als hun grondgebied beschouwen.
