@@ -113,7 +113,7 @@ In reactie op een bankencrisis in [[Huldam]] worden de poorten gesloten voor de 
 
 #### Dag 80
 
-- **[[Giel de Papo]] blijkt al ~twee weken ontsnapt** — niet uit [[het Wolvenhol]] maar uit de [[Obol Corporatie|Zwarte Mast]] ([[Obol Corporatie|Obol]]'s hoofdkantoor). Reden van de overbrenging onbekend. [[Obol Corporatie|Obol]] en [[Huldamese Handhaving|Handhaving]] weigeren te reageren.
+- **[[Giel de Papo]] blijkt al ongeveer twee weken ontsnapt** — niet uit [[het Wolvenhol]] maar uit de [[Obol Corporatie|Zwarte Mast]] ([[Obol Corporatie|Obol]]'s hoofdkantoor). Reden van de overbrenging onbekend. [[Obol Corporatie|Obol]] en [[Huldamese Handhaving|Handhaving]] weigeren te reageren.
 - **Resonantie-explosie bij het [[Keldria Instituut]]** — een groot experiment van de [[Orde van het Heilig Akkoord]] dat tot ver in de [[Riftlanden]] te horen was, door de [[Orde van het Heilig Akkoord|Orde]] zelf bestempeld als "groot succes."
 - **[[Mimiekmos]] verboden** door [[Huldamese Handhaving]] Divisie 13 — het zeldzame kruid leidde tot explosieve reacties, vergiftigingen en gevallen van bezetenheid.
 - **Reizend kermisgenootschap "De Brede Lach"** aangevallen en beroofd door de [[IJzeren Karavaan]] nabij [[Weloor]].
