@@ -1,6 +1,8 @@
 ---
 tags:
   - Larp/Ekyo
+nation:
+  - "[[Valsted]]"
 ---
 # Moeders Luw
 ![[Moeders Luw.png]]

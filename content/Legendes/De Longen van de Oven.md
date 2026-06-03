@@ -1,6 +1,8 @@
 ---
 tags:
   - Larp/Ekyo
+nation:
+  - "[[Riftlanden]]"
 ---
 # De Longen van [[De Oven]] 
 ([Luistertip](https://open.spotify.com/track/2kBh1rJrZxG37MqeHqELsC?si=130ecc836cc44698))
