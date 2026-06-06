@@ -98,8 +98,6 @@ Ondertussen kibbelden de bezoekers door, en de man klom terug in de luchtsloep. 
 
 Dit was Darby's kans om weg te glippen. Met een geoefende beweging kroop die achteruit, dieper de schaduwen in, en verdween in de bossen. 
 
-Dus nu waren ze met z'n tweeën op dit eiland. Darby zou hun nieuwe buurvrouw maar een hartelijk welkom moeten heten. 
-
 ---
 
 Een scherp, aandringend vogelgeluid onderbrak Penna's mijmeringen. Na haar slaapruimte in te richten, had ze zich achter het bureau van het postkantoor geparkeerd en was, zo besefte ze nu, van verveling bijna in een trance geraakt. 
