@@ -6,6 +6,7 @@ author: Lennaert Nijgh
 ---
 # Verdronken Vlinder
 
+```
 Zo te sterven op het water  
 met je vleugels van papier,  
 zo maar drijven na het vliegen  
@@ -47,3 +48,4 @@ Wat zal ik nog langer geven
 om een vlinder die verdronken is in mei?  
 Om te leven hoef ik  
 echt geen vlinder meer te zijn.
+```

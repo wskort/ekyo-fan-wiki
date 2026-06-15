@@ -1,6 +1,7 @@
 ---
 tags:
   - Lied
+  - Larp/Ekyo
 original: "[[Chopin]]"
 author:
   - "[[Octavia Vanar]]"

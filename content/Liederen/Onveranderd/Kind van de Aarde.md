@@ -5,6 +5,7 @@ original: Anouk & Yora
 ---
 # Kind van de Aarde
 
+```
 Tussen de bomen is waar je me vindt
 Ik geniet van het leven en speel als een kind
 Dit is de plek waar ik mag bestaan
@@ -41,3 +42,4 @@ Ik ben een kind van de aarde, leef hier op de grond
 Ik hou van de dieren, de bloemen, de zon
 Ik heb lief
 En ik deel mijn liefde met jou
+```

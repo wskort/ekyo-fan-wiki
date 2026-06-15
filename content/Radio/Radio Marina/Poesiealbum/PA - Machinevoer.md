@@ -9,6 +9,7 @@ original: Willeke
 ## Machinevoer
 ![[Machinevoer.png]]
 
+```
 Ik was eens een jonkie van zeven
 Die aan de fabriek werd gegeven
 Als ik het niet maak
@@ -19,9 +20,9 @@ Ik werd toen een stevige jongen
 En heb een promotie bedongen
 Ik pomp alles rond
 Hou mijn sibbes gezond
-De [[Obol Corporatie|Zwarte Mast]] slaat op je longen
+De Zwarte Mast slaat op je longen
 
-Ik loop in het hart van [[De Oven]]
+Ik loop in het hart van De Oven
 Me dagelijks hard uit te sloven
 Als ik er niet was
 Zaten *zíj* vol met gas
@@ -31,4 +32,5 @@ Mijn longen zijn niet te benijden
 De pijn begint al te verspreiden
 Ik weet nog niet hoe
 Maar het laatst wat ik doe
-Is ons uit [[De Oven]] bevrijden
+Is ons uit De Oven bevrijden
+```

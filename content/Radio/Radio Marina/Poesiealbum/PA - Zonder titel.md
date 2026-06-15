@@ -4,6 +4,9 @@ tags:
   - Fiction
   - Fiction/Poetry
 ---
+## Zonder titel
+
+```
 Er gaat door de wereld gefluister 
 Arbeider hoor je het niet? 
 Het zijn de stemmen van oorlogshitsers 
@@ -22,3 +25,4 @@ De aanval tegen de linkse krachten
 Is het doel van de kapitalistische machten 
 De samenzwering waarom het hun gaat
 Is gericht tegen jou, kameraad!
+```

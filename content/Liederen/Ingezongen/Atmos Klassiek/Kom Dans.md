@@ -5,10 +5,12 @@ tags:
 author:
   - "[[Noortje Neele]]"
   - Guinevere
+original: Bonnie & Clyde de Musical
 ---
 # Kom Dans
 ![[Kom Dans (Beste) - Noortje Neele.mp3]]
 
+```
 Kom dans met mij
 Blijf daar niet staan
 Ik heb wat moves
@@ -47,3 +49,4 @@ Je hart de strijd verliest
 
 Dans met me tot
 Je hart de strijd verliest
+```

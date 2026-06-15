@@ -12,13 +12,14 @@ author:
 # Prothese
 ![[prothese-Lars.mp3]]
 
+```
 'k Heb een prothese
 In een dokterstas
 En die prothese
 Die kwam van pas
 Ja soms kom je wel eens ziek 
-Uit die [[Obol Corporatie|Obol]] fabriek
-Dan ga je gewoon naar dokter [[Elizabeth 'Bep' Snip|Snip]]
+Uit die Obol fabriek
+Dan ga je gewoon naar dokter Snip
 En weer op de been, ja in een wip
 
 Die prothese
@@ -40,4 +41,5 @@ Wat alles kan doen
 En nu wil ik: een tweede prothese!
 Beter dan het was
 Ja een prothese
-Uit [[Elizabeth 'Bep' Snip|Snip]] haar dokterstas
+Uit Snip haar dokterstas
+```

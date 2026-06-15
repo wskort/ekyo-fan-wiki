@@ -11,12 +11,9 @@ author:
 ---
 # Liefde en Strijd
 ![[Liefde en Strijd.mp3|Liefde en Strijd]]
-
-| base   | all                                                | piano                                                   | Vo1                                                   | Vo2                                                   | Vo3                                                   |
-| ------ | -------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
-| Celtic | ![[Come All Ye Fair and Tender Ladies-Celtic.mp3]] | ![[Come All Ye Fair and Tender Ladies-CelticPiano.mp3]] | ![[Come All Ye Fair and Tender Ladies-CelticVo1.mp3]] | ![[Come All Ye Fair and Tender Ladies-CelticVo2.mp3]] | ![[Come All Ye Fair and Tender Ladies-CelticVo3.mp3]] |
 ![[Liefde en Strijd.pdf]]
 
+```
 Laat mij vertellen over soldaten
 Alles geoorloofd in liefde en strijd
 Als jij je door een soldaat laat verleiden
@@ -58,3 +55,4 @@ Alles geoorloofd in liefde en strijd
 Als jij je door een soldaat laat verleiden
 Voor je het weet ben jij
 Voor je 't weet ben jij hun kwijt
+```

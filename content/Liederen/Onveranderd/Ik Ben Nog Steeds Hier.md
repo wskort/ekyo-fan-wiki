@@ -9,6 +9,7 @@ translator: Disney
 # Ik Ben Nog Steeds Hier
 ![[Ik Ben Nog Steeds Hier.mp3]]
 
+```
 Zie hoe de wereld naar me kijkt
 Ben geen vraag die je ontwijkt
 Geen seconde van spijt die vervaagt
@@ -61,3 +62,4 @@ Terwijl jij zelf ook niets doet
 Ik ben nog hier
 Ik ben hier
 Nog steeds hier
+```

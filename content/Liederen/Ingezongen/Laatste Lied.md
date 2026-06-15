@@ -13,6 +13,7 @@ author:
 # Laatste Lied
 ![[Laatste Lied - Noortje Neele.mp3]]
 
+```
 Je komt laat thuis, drinkt dure wijn
 Je neemt mijn geld af en houdt me klein
 Geen and’re weg, is wat je zegt
@@ -49,3 +50,4 @@ Hun lijken bont en blauw
 Tezamen schreeuwen wij als een
 Ons laatste lied aan jou 
 Ons laatste lied aan jou 
+```

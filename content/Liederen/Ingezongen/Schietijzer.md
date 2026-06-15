@@ -13,6 +13,7 @@ author:
 # Schietijzer
 ![[Schietijzer.mp3]]
 
+```
 Naar een dorp tussen de wolken vloog een onbekend gezicht 
 Zei bar weinig tegen mensen, had natuurlijk overwicht 
 Niemand vroeg hun naar hun zaken, niemand vond hun eigenl’k leuk 
@@ -60,3 +61,4 @@ Voor hun lag het lijk van Rifter, bloedend over elke steen
 Die had echt wel kunnen leven, met nog jaren vol met lol 
 Maar die schurk had niet gerekend op de Wachter hun pistool. 
 (Wachter hun pisto~ol ♪)
+```

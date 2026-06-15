@@ -12,6 +12,7 @@ author:
 # De As
 ![[De As - Lin Delaan (Ashes NL cover).mp3]]
 
+```
 Kijk naar het vuur, nu het flakkert en dooft
 Ooit hield het ons veilig en gaf het ons hoop
 Het scheen voor wij vrienden en klinken van glas
@@ -44,3 +45,4 @@ We roeien met de riemen en houden ons vast
 Ik wakker de vlam, waar jij slaapt bij de as
 Ik wakker de vlam, waar jij slaapt bij de as
 Ik wakker de vlam, waar jij slaapt bij de as
+```

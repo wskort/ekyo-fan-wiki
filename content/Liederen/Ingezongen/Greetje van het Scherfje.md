@@ -13,6 +13,7 @@ author:
 # Greetje van het scherfje
 ![[Greetje van het Scherfje.mp3]]
 
+```
 Ik weet op een scherfje een huisje te staan
 Verborgen door bloemen en struiken
 Een slootje ervoor met een stoepje eraan
@@ -24,7 +25,7 @@ En zoen in het klompenhok Greetje
 Greetje wat ben je toch mooi
 
 Kleine Greetje van het scherfje
-Kind van 't [[Riftlanden|Rifterland]]
+Kind van 't Rifterland
 Blond van haar en blauw van ogen
 Geef mij toch je hand
 Kleine Greetje van het scherfje
@@ -39,11 +40,11 @@ Nu moest eerst de rogge gezaaid zijn
 Toen had ze geen tijd want toen werd er gehooid
 Toen moesten zonodig de piepers gerooid
 Een koe werd mama dus had Greetje
-Geen tijd voor de [[Riftlanden#Inwoon|inwoon]] dat weet je
+Geen tijd voor de inwoon dat weet je
 Greetje wat ben je toch mooi
 
 Kleine Greetje van het scherfje
-Kind van 't [[Riftlanden|Rifterland]]
+Kind van 't Rifterland
 Blond van haar en blauw van ogen
 Geef mij toch je hand
 Kleine Greetje van het scherfje
@@ -65,3 +66,4 @@ Kleine Greetje van het scherfje
 Zeg me nu eens gauw
 Als het koren rijp is
 Word je dan m'n vrouw
+```

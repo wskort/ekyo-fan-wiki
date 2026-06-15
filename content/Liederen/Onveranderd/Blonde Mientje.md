@@ -6,6 +6,8 @@ aliases:
 original: Snip en Snap
 ---
 # Blonde Mientje
+
+```
 Blonde Mientje heeft een hart met prikkeldraad  
 Blijf maar thuis  
 Prikkeldraad  
@@ -55,3 +57,4 @@ Maar zij lacht en voor de rest neutraliteit
 Blonde Mientje heeft een hart met prikkeldraad  
 Blijf maar thuis  
 Prikkeldraad
+```

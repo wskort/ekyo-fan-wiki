@@ -9,6 +9,7 @@ author:
 # Breng Me Thuis
 ![[Breng me thuis - Jan Contant.mp3]]
 
+```
 Oh, broeders en zusters van de Karavaan
 Oh, broeders en zusters van dit Karavaan
 Breng mij thuis, breng mij thuis
@@ -23,3 +24,4 @@ Breng mij thuis, breng mij thuis
 Breng mij thuis, breng mij thuis
 Breng mij thuis
 Ik ben thuis
+```

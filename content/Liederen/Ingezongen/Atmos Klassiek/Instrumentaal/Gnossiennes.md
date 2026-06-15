@@ -1,6 +1,7 @@
 ---
 tags:
   - Lied
+  - Larp/Ekyo
 original: "[[Erik Satie]]"
 author:
   - "[[August Vanar]]"

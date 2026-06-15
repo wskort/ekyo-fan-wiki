@@ -11,6 +11,7 @@ author:
 # Obol Boyz - Doorwerke
 ![[OBOL BOYZ - DOORWERKE.mp3]]
 
+```
 Productief zijn, ik moet productief zijn 
 Want bestaan is niet genoeg, nee 
 Ik moet productief zijn
@@ -39,3 +40,4 @@ Ik moet productief zijn
 Productief zijn, ik moet productief zijn 
 Werk je lichaam naar de tering, 
 dan mag jij ook arm zijn
+```

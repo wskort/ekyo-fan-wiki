@@ -13,6 +13,7 @@ original: Andrew Lloyd Webber
 # Denk Aan Mij
 ![[Denk aan mij - Fiorenza Fanfarria.mp3]]
 
+```
 Denk aan mij
 Blijf aan mij denken
 Ook na ons vaarwel
@@ -31,7 +32,7 @@ Die kinderjaren gaan voorbij
 Ook al is het maar voor even
 Denk terug aan mij
 
-Mijn [[Corvillo Attacus|Corvillo]]
+Mijn Corvillo
 Louter zonneschijn
 De jaren kunnen vluchtig
 Vluchtig zijn
@@ -48,7 +49,7 @@ Wat er dan ook gebeuren zou
 Er zal nooit een dag voorbij gaan
 Of ik denk aan jou
 
-[[Corvillo Attacus|Corvillo]]:
+Corvillo:
 Zou het zijn? Zou dat haar echt zijn? Mama!
 Ver terug, ver in de tijd terug
 Ik was een kind, zo groen als gras
@@ -61,3 +62,4 @@ Ook al is het maar voor even
 Denk terug 
 A-a-a-a-ah
 Aan mij
+```

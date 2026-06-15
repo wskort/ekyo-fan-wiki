@@ -13,10 +13,11 @@ author:
 # Grauwe Dag
 ![[Grauwe dag.mp3]]
 
+```
 Ik graaf hier mijn gat
-Spaar mijn [[00. Knopen|Knopen]] voor een grauwe dag
+Spaar mijn Knopen voor een grauwe dag
 Ik graaf hier mijn gat
-Sprokkel [[00. Knopen|Knopen]] voor die grauwe dag
+Sprokkel Knopen voor die grauwe dag
 Ik ben veilig
 
 Ik bouw hier mijn muur 
@@ -49,3 +50,4 @@ Zon verduisterd, tranende ogen
 Ik blijf veilig op die grauwe dag 
 Open gaten in de muren 
 Blijf ik veilig op die grauwe dag?
+```

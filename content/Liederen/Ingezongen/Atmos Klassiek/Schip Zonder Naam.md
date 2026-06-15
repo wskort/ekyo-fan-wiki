@@ -13,6 +13,7 @@ author:
 # Schip Zonder Naam
 ![[Schip_Zonder_Naam.mp3]]
 
+```
 Op mijn eerste blinde stappen 
 Keek op het leven neer. 
 Ik zag planten, vogels, steen alom.
@@ -57,3 +58,4 @@ Onderweg naar een heel nieuw bestaan
 In de wolken, adem ik zonder blaam 
 Ja, hierboven kan ik leven zonder dat ik me schaam. 
 La la etc.
+```

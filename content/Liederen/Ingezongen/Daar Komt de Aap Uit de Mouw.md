@@ -14,6 +14,7 @@ author:
 ![[Daar Komt de Aap Uit de Mouw.mp3]]
 %% https://www.youtube.com/shorts/gTp2qbL-8QM %%
 
+```
 Daar komt de aap uit de mouw
 Ja ja, een aap uit de mouw
 Oh oh, die aap uit de mouw
@@ -64,3 +65,4 @@ Daar komt de aap uit de mouw
 Ja ja, een aap uit de mouw
 Oh oh, die aap uit de mouw
 Zo'n apenkaart
+```

@@ -10,6 +10,7 @@ author:
 
 *Aan iedereen die luistert, weet dit: ik ben niet hier. Hey gozer, [[Liam de Piam|LdP]]: deze is voor jou.*
 
+```
 En ik zoek de waarheid van't moment
 Ik wil voelen wat hij niet kent
 Wil weten: hoor ik hier thuis?
@@ -28,3 +29,4 @@ Ik ben niet hier
 *Shh*
 
 Ik ben niet hier
+```

@@ -12,6 +12,7 @@ author:
 # Zomerse Dag
 ![[Zomerse_dag_clean_-_Reno_2.mp3]]
 
+```
 Zomerse dag
 Waar ik jou voor het eerst zag
 Ik verdronk toen in jouw lach
@@ -61,3 +62,4 @@ En weet dat ik, hoe het leven
 Ook loopt, dit is waar je
 Samen op hoopt
 Nu tot de dood!
+```

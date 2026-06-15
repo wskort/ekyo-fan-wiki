@@ -15,8 +15,9 @@ author:
 # Gaswerkerslied
 ![[Gaswerkerslied.mp3]]
 
+```
 Ik werk in de fabriek en aan kwakkel doe ik niet
-[[De Oven]] biedt mij arbeid in de rook die ieder ziet
+De Oven biedt mij arbeid in de rook die ieder ziet
 Met donder in m'n oren en vergif dik in de lucht
 Het stof knarst in m'n tanden en de stank die is berucht
 
@@ -27,7 +28,7 @@ Twee uur eerder dood
 Maar je gaat
 
 'k Heb in de spinnerij gewerkt, met kind'ren zij aan zij
-Ik sleepte ketels [[Grijs Gas]] en was ademnood nabij
+Ik sleepte ketels Grijs Gas en was ademnood nabij
 'k Heb knie-diep in het zuur gestaan, heb littekens sindsdien
 Ik ben afgemat en ben het zat om nachtmerries te zien
 
@@ -51,3 +52,4 @@ Je adem wordt begroot
 En één uur aan het werk betekent
 Twee uur eerder dood
 Maar je gaat
+```

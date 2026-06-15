@@ -4,6 +4,7 @@ tags:
 ---
 # Niet Bang Zijn
 
+```
 Ik geef je mijn ogen  
 Ik geef je mijn armen  
 Dan kan jij zien, dan kan jij voelen  
@@ -46,3 +47,4 @@ Hoger, hoger, hoger en hoger
 Hoger, hoger, zo hoog als je kan  
 Hoger en hoger, ga maar  
 Ga maar, ga maar hoger en hoger
+```

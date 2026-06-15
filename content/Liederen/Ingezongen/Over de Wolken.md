@@ -13,6 +13,7 @@ author:
 # Over de Wolken
 ![[Over de wolken - Noortje Neele.mp3]]
 
+```
 Ik ben een arm, onreine vreemde
 En ik reis door ’t wolkenbed
 Er is geen ziekte, geen angst, geen schaamte
@@ -34,3 +35,4 @@ Over de wolken naar dat lichtje
 Over de wolken naar mijn thuis
 Over de wolken naar dat lichtje
 Over de wolken naar mijn thuis
+```

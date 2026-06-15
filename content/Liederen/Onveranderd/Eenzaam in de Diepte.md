@@ -6,6 +6,7 @@ original: Anouk & Yora
 ---
 # Eenzaam in de Diepte
 
+```
 Ze voelde elke dag een leegte
 Maar dat was niet wat ik zag
 Ze leek meer op een zon achter de wolken die zich schuilhield, elke dag
@@ -36,3 +37,4 @@ Ik zie de kracht in haar ziel
 Die haar uit de diepte tilt
 Eenzaam in de diepte
 Ik gun haar alle liefde
+```

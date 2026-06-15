@@ -11,6 +11,7 @@ author:
 # De Mijn
 ![[De_Mijn.mp3]]
 
+```
 Elke dag volgt het ritme van mijn pikhouweel 
 Waarom heb ik zo weinig, waarom zij zoveel? 
 Waar zijn hun blauwe plekken, hun wonden, hun lijd? 
@@ -35,7 +36,7 @@ De glazen zijn veel te klein
 Maar soms, al is het maar even 
 Voel ik dat wij samen zijn 
 
-Nog een nachtje doortrekken voor een [[00. Knopen|Knoopje]] of twee  
+Nog een nachtje doortrekken voor een Knoopje of twee  
 Geen koffie of anders mag met mij naar benee 
 Nee, een lampje hooguit laat mij zien waar ik sta 
 Aan het einde van de ladder zonder voorwaarts te gaan, ik 
@@ -58,11 +59,12 @@ De glazen zijn veel te klein
 Maar soms, al is het maar even 
 Voel ik dat wij samen zijn  
 
-Free [[Giel de Papo|Giel]](?)
-[[Riftlanden|Riftland]] 
-Free [[Giel de Papo|Giel]](?)
+Free Giel
+Riftland
+Free Giel
 'Ey 
-[[Raad van Rijkdom]]
-[[Obol Corporatie|Obozo's]] 
-[[Orde van het Heilig Akkoord|Heilige aso's]] 
+Raad van Rijkdom
+Obozo's
+Heilige aso's
 'Ey
+```

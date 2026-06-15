@@ -5,6 +5,7 @@ original: Anouk & Yora
 ---
 # Zijn Wie Ik Ben
 
+```
 Ik maakte een reis door mijn eigen paradijs
 Om de lagen te zien en te voelen
 Ik trok mijn mond niet vaak open
@@ -47,3 +48,4 @@ De pijn, ik zal het verbranden
 Maar eerst kijk ik het aan in het maanlicht
 Zodat ik hier wat kan landen
 En ik kan zijn wie ik ben
+```

@@ -11,6 +11,7 @@ author:
 # Obol Boyz - Altijd (S)lijp
 ![[OBOL_BOYZ_-_ALTIJD_SLIJP.mp3]]
 
+```
 Zit je in je koude kleren?
 Werk dan om te domineren
 Volg nu met de bas je werk
@@ -26,7 +27,7 @@ Want geld moet rollen voor je lol
 Geen vrienden, liefde, hartenzeer, 
 Maar altijd werken, altijd meer
 Dus pak dan wat je pakken kan,
-In naam van [[Obol Corporatie|Obol]], van [[Atlan Valk|Atlan]]  
+In naam van Obol, van Atlan  
 Liegen, trappen, moorden, stelen
 Deze leef gaat nooit vervelen
 Als jij macht wilt in de wereld
@@ -37,9 +38,10 @@ Want met tranen koop je niks
 Een bloedend hart is geen gemis
 Want liefde en een open hand
 Is nergens aan succes verwant
-Dus klauw naar elke [[00. Knopen|Knoop]] een weg
+Dus klauw naar elke Knoop een weg
 Desnoods door levens, dan maar pech
 Want als zij van het leven wisten
 Zouden zij geen geld verkwisten
 Werk altijd met harde hand
 Zo blijf je altijd dominant
+```

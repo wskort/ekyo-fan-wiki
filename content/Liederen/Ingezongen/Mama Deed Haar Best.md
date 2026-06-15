@@ -9,6 +9,7 @@ author:
 # Mama Deed Haar Best
 ![[Mama deed haar best - Jan Contant.mp3]]
 
+```
 Ik herinnerde mij laatst zo’n luchtschiphoorn die hard blaast
 en een jongensdroom van reizen richting west
 op een schip recht uit de stad, bestemming heb ik nooit gehad
@@ -33,3 +34,4 @@ En nu zit ik in de bajes waarschijnlijk mijn leven lang
 niemand trok me aan mijn vest maar mijn mama ze deed haar best
 ze heeft me beter opgevoed, maar ik heb het zelf verpest
 Het is niet mijn mama's schuld, ze deed haar best. 
+```

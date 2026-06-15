@@ -4,6 +4,7 @@ tags:
 ---
 # Troostzoekers
 
+```
 Geluk is gevaarlijk voor wie spaarzaam is  
 Voor wie niet leven een koud kunstje werd  
 Voor wie hier binnenkomt en twijfelt aan alles wat mooi is  
@@ -58,3 +59,4 @@ Oh-oh-oh-oh-oh-oh
 Oh-oh-oh-oh-oh-oh  
 Oh-oh-oh-oh-oh-oh  
 Oh-oh-oh-oh-oh-oh
+```

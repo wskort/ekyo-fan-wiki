@@ -9,6 +9,7 @@ translator: Aniek
 ---
 # De Wind Neemt Mij Weer Mee
 
+```
 M'n lief, ik moet scheiden, de wind neemt me mee 
 M'n schip ligt te wachten, daarginds op de ree 
 Ik moet weer gaan vliegen, dat zit in m'n bloed 
@@ -32,3 +33,4 @@ Adieu dan m'n liefste, tabé, 't ga je goed
 
 Tabé, tabé, tabé, tabé, zo is het schippersleven 
 Tabé, tabé, tabé, tabé, de wind neemt mij weer mee 
+```

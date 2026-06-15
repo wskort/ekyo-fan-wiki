@@ -12,6 +12,7 @@ author:
 # Kinderballade
 ![[Kinderballade.mp3]]
 
+```
 Hij was twaalf, had rappe leden,  
 uit een tijdperk lang geleden.
 Als hij lachte, lachten luidkeels  
@@ -67,3 +68,4 @@ hoezeer kleine Annabelle
 had gehouden van haar engel  
 uit het sierlijk bal masque.  
 Maar nog altijd waait de zee.
+```

@@ -5,6 +5,7 @@ tags:
 # Zwijg maar
 ![[Dwight Dissels - Zwijg Maar.mp3]]
 
+```
 Je denkt dat je stil bent
 Je doet of je zwijgt
 Maar al jouw gedachten
@@ -49,3 +50,4 @@ Dus liefste zwijg maar
 Zwijg als je maar weet
 In deze stilte hoor ik jou nog steeds
 In deze stilte hoor ik jou nog steeds
+```

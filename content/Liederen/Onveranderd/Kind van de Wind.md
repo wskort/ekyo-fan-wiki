@@ -8,6 +8,7 @@ vertaler: Damian
 # Kind van de Wind
 ![[Kind van de Wind - De Baron - verEkyo'd.mp3]]
 
+```
 Ik ben niets
 Ik heb niets
 Slechts een kind van de wind
@@ -36,3 +37,4 @@ Ik heb niets
 
 Ik ben niets
 Ik heb niets
+```

@@ -13,6 +13,7 @@ author:
 # Lieveling
 ![[Lieveling.mp3]]
 
+```
 Lieveling, waarom
 Ging je met de zon
 Kom weer terug naar waar het begon
@@ -38,3 +39,4 @@ Voor altijd samen, zij aan zij
 Weet dat het me spijt
 Ik wil je nooit meer kwijt
 Ik ben van jou tot het eind der tijd
+```

@@ -14,7 +14,8 @@ author:
 ![[Welterusten Meneer De Libellule.mp3]]
 ![[Slaap Zacht.png]]
 
-Mijnheer de [[Corvillo Attacus III|Libellule]], welterusten.  
+```
+Mijnheer de Libellule, welterusten.  
 Slaap maar lekker in je mooie dure huis.  
 Denk maar niet aan al die verre plichtsbewusten 
 op besneeuwde bergen, eenzaam, ver van huis.  
@@ -26,7 +27,7 @@ waarmee u de gevangenen verwent
 Denk maar niet aan al die jonge frontsoldaten  
 eenzaam stervend in de verre koude nacht.  
 Laat die weke pacifistenkliek maar praten,  
-mijnheer de [[Corvillo Attacus III|Libellule]], slaap zacht.
+mijnheer de Libellule, slaap zacht.
 
 Droom maar van de overwinning en de zege,  
 droom maar van uw mooie vredesideaal  
@@ -40,7 +41,7 @@ en geloof van al die tegenstand geen woord.
 Bajonetten met bloedige gevesten  
 houden ver van hier op uw bevel de wacht  
 voor de glorie en de eer van uw gewesten.  
-Mijnheer de [[Corvillo Attacus III|Libellule]], slaap zacht.
+Mijnheer de Libellule, slaap zacht.
 
 Schrik maar niet te erg wanneer u in uw dromen  
 al die schuldeloze slachtoffers ziet staan  
@@ -54,4 +55,5 @@ en voor wie nog steeds een mensenleven telt.
 Droom maar niet te veel van al die dode mensen,  
 droom maar fijn van overwinning en van macht.  
 Denk maar niet aan al die vredeswensen.  
-Mijnheer de [[Corvillo Attacus III|Libellule]], slaap zacht.
+Mijnheer de Libellule, slaap zacht.
+```

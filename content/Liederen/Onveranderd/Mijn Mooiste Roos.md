@@ -5,6 +5,7 @@ original: Zangeres Zonder Naam
 ---
 # Mijn Mooiste Roos
 
+```
 Omdat ik zoveel van je hou
 Ben ik nog steeds vervuld van jou
 Ik kan jouw schoonheid niet weerstaan
@@ -52,3 +53,4 @@ Maar toch blijf jij voor mij
 M'n mooiste roos
 
 La la la...
+```

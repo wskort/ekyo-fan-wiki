@@ -12,16 +12,17 @@ author:
 ![[Wat de toekomst brengen moge.mp3|Wat de toekomst brengen moge]]
 ![[Wat de toekomst brengen moge (instrumentaal).mp3]]
 
+```
 Wat de toekomst brengen moge
-Mij geleidt des [[Corvillo Attacus III|Keizer]]'s hand
+Mij geleidt des Keizer's hand
 Moedig sla ik dus de ogen 
-Naar ons schone [[Valsted|vaderland]]
+Naar ons schone vaderland
 Leer mij volgen zonder vragen
-[[Corvillo Attacus III|Keizer]] wat u doet is goed
+Keizer wat u doet is goed
 Leer mij slechts het heden dragen
 Met een rustig kalme moed
 
-[[Corvillo Attacus III|Keizer]], 'k wil uw liefde loven
+Keizer, 'k wil uw liefde loven
 Al begrijpt ik u soms niet 
 Zalig hij, die durft geloven
 Ook wanneer het oog niet ziet
@@ -40,6 +41,7 @@ Neem mijn hand in uwe handen
 En geleid mij als een kind.
 
 Waar de weg mij brengen moge
-Aan des [[Corvillo Attacus III|Keizer]]'s trouwe hand
+Aan des Keizer's trouwe hand
 Loop ik met gesloten ogen 
-Naar ons mooie [[Valsted|vaderland]] 
+Naar ons mooie vaderland 
+```
