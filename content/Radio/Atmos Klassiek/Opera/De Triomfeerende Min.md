@@ -11,8 +11,6 @@ aliases:
   - Cloris en Roosje
 ---
 # De Triomfeerende Min
-![[De Triomfeerende Min.mp3]]
-
 Beste luisteraars, welkom bij deze speciale uitzending van [[Atmos Klassiek]]. Fijn dat u luistert. 
 
 Zodirect nemen wij u mee naar een bijzondere muzikale ontmoeting: twee zusterstukken die elk op hun eigen wijze spreken over zorg, verbondenheid en herwonnen samenhang. U hoort _[[De Triomfeerende Min]]_, gevolgd door haar feestelijk pendant _[[De Triomfeerende Min|Cloris en Roosje]]_, twee werken die geworteld zijn in verschillende tradities, maar samen één doorlopend verhaal vormen.
