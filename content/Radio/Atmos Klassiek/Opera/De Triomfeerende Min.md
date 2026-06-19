@@ -11,6 +11,8 @@ aliases:
   - Cloris en Roosje
 ---
 # De Triomfeerende Min
+![[De Triomfeerende Min.mp3]]
+
 Beste luisteraars, welkom bij deze speciale uitzending van [[Atmos Klassiek]]. Fijn dat u luistert. 
 
 Zodirect nemen wij u mee naar een bijzondere muzikale ontmoeting: twee zusterstukken die elk op hun eigen wijze spreken over zorg, verbondenheid en herwonnen samenhang. U hoort _[[De Triomfeerende Min]]_, gevolgd door haar feestelijk pendant _[[De Triomfeerende Min|Cloris en Roosje]]_, twee werken die geworteld zijn in verschillende tradities, maar samen één doorlopend verhaal vormen.
@@ -74,7 +76,7 @@ Volgens het titelblad is _[[De Triomfeerende Min|De bruiloft van Cloris en Roosj
 
 Van de muziek die [[Servaas de Koning]] componeerde voor [[Dirck Buysero|Buysero]]'s pastorale _[[De Triomfeerende Min|De vryadje van Cloris en Roosje]]_ is is alleen een kort coupletje van Roosje teruggevonden. Ook van de oorspronkelijke muziek voor *[[De Triomfeerende Min|De bruiloft]]* is het meeste verloren gegaan, naar men zegt tijdens de brand in het [[Rederia Conservatorium]] in 372. Enkele liederen en dansen konden later worden gereconstrueerd, terwijl [[Bartholomeus Ruloffs]] het werk aanvulde met nieuwe muziek in rococostijl. Het teruggevonden couplet uit _[[De Triomfeerende Min|De vryadje]]_ werd rond 395 door [[Cornelis Sweerts]] uitgewerkt tot een vrijersdialoog. Herder Silvander prijst het bos, waarin jongens en meisjes dingen kunnen doen zonder dat iemand het merkt. Herderin Cloris begrijpt de toespeling maar al te goed en wijst Silvander terecht. Maar die geeft het niet op en zweert Cloris trouw. 
 ## 27. 
-In _[[De Triomfeerende Min|De vryadje]]_ zijn de pogingen van Silvander om Cloris te veroveren vergeeft, want Cloris heeft alleen maar oog voor de beeldschone Roosje. Het feestelijke _Hardersballet_ is een intieme verleidingsdans van Cloris met Roosje.
+In _[[De Triomfeerende Min|De vryadje]]_ zijn de pogingen van Silvander om Cloris te veroveren vergeefs, want Cloris heeft alleen maar oog voor de beeldschone Roosje. Het feestelijke _Hardersballet_ is een intieme verleidingsdans van Cloris met Roosje.
 ## 28. 
 Als in *[[De Triomfeerende Min|De bruiloft van Cloris en Roosje]]* de jonge boer Krelis boerinnetje Elsje het hof maakt, zingt hij een alleraardigst coupletje voor haar: ‘Mijn Liefje, mijn diefje, mijn suikerde pry’. De [[Hezel|Hezelse]] dichter [[Jan van Elsland]] nam dat als uitgangspunt voor een boertige dialoog van een ander boerenpaartje, die hij Melis en Guurtje noemde (417). Net als Krelis prijst Melis de schoonheid van zijn geliefde, maar Guurtje vertrouwt het maar half. Had hij niet iets met Trijntje? Nee, dat is voorbij! En met Lijntje is het ook uit. Melis’ hele hart klopt nu voor Guurtje. En om die woorden kracht te zetten biedt hij haar zijn trouw (dat wil zeggen een trouwring). Daar kan ze geen nee tegen zeggen. Dat alles dus op de melodie van ‘Mijn Liefje, mijn diefje, mijn suikerde pry’ uit *[[De Triomfeerende Min|De bruiloft]]*.
 
