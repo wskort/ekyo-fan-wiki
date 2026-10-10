@@ -10,6 +10,7 @@ author:
 ---
 # Tot de [[Valsted|Dageraad]] Ons Vindt
 ![[Tot de Dageraad Ons Vindt.mp3]]
+![[Tot de Dageraad Ons Vindt (clean).mp3]]
 *(met fragmenten van: *
 - *[[82 - Oorlogsverklaring Keizer Corvillo III]]*
 - *[[109 - Laatste Woorden van Giel de Papo]]*
